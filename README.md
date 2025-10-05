@@ -4,7 +4,7 @@
 
 FloraTale is a Flutter mobile application that combines AI-powered plant identification with traditional Nigerian botanical knowledge. Explore thousands of plant species, discover cultural stories, and build your personal digital herbarium.
 
-## 🌟 Features
+## Features
 
 - **AI Plant Recognition**: Take photos and get instant plant identification
 - **Nigerian Folklore**: Discover traditional stories and cultural significance
@@ -12,9 +12,9 @@ FloraTale is a Flutter mobile application that combines AI-powered plant identif
 - **Daily Plant Discovery**: Learn about new plants every day
 - **Offline Support**: Works without internet connection
 
-## 🚀 Website
+## Website
 
-Visit our promotional website at `https://floratale.netlify.app/` to learn more about the app and download the APK file.
+Visit our promotional website to learn more about the app and download the APK file at [Floratale](https://floratale.netlify.app/).
 
 ### Website Features:
 - Professional design showcasing app features
@@ -22,21 +22,15 @@ Visit our promotional website at `https://floratale.netlify.app/` to learn more 
 - Direct APK download button
 - Mobile-responsive layout
 
-## 📱 Mobile App
+## Mobile App
 
 ### Installation
 1. Download the APK from the website (26MB)
 2. Enable "Install from Unknown Sources" in Android settings
 3. Install and launch the app
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues and enhancement requests.
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-**Made with ❤️ for Nigeria's botanical heritage**
